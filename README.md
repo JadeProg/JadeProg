@@ -15,8 +15,9 @@
 - **Tools**: Xcode, Git, Figma, Apple Vision Pro & more.
 
 ### 📨 Contact-me
-- [![Site](https://img.shields.io/badge/site-Jade%20Paz-D14836?style=flat&logo=globe&logoColor=white)](https://jadeprog.github.io/site/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jade%20Paz-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jade-paz-075bb8233/)  
+- [![Site](https://img.shields.io/badge/site-JadeProg-blue?style=flat&logo=globe&logoColor=white)](https://jadeprog.github.io/site/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jade%20Paz-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jade-paz-075bb8233/)
+- [![Site](https://img.shields.io/badge/Instagram-jadepaz.dev-E30B5D?style=flat&logo=globe&logoColor=white)](https://www.instagram.com/jadepaz.dev?igsh=MTExNG03eTBlMWlidg%3D%3D&utm_source=qr) 
 
 
 ## 🛠️ Some cool things
