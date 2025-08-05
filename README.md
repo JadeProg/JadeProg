@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jade! 
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?color=1A73E8&size=25&lines=Developer;iOS+Designer;Apple+plataforms)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?color=E30B5D&size=25&lines=Developer;iOS+Designer;Apple+plataforms)
 
 ## 🚀 About Me
 - 🎓 **Telecommunications engineer in formation**
