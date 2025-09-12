@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jade!
+# 👋 Hi, I'm Jade!!
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?color=E30B5D&size=25&lines=Developer;iOS+Designer;Apple+plataforms)
 
