@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Jade!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JadeProg/site/main/img/jade.gif" width="300"/>
+</p>
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?color=E30B5D&size=25&lines=Developer;iOS+Designer;Apple+plataforms)
 
