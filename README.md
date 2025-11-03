@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jade!!
+# 👋 Hi, I'm Jade!
 <p align="center">
   <img src="https://raw.githubusercontent.com/JadeProg/site/main/img/jade.gif" width="300"/>
 </p>
