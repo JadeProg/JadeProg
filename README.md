@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 🎓 **Telecommunications engineer in formation**
-- 🍎 I'm a **Apple** multi-plataform developer
+- 🍎 I'm a student of multiplatform development at the **Apple Developer Academy**.
 - 💻 I work with **Swift**, **JavaScript**, **Python** and **HTML/CSS++**  
 - 🎨 Obsessed with clean design, fluid animations and smooth transitions
 - 🎧 Creator of experiences that connect people 
