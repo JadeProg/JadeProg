@@ -7,15 +7,23 @@
 
 ## 🚀 About Me
 - 🎓 **Telecommunications engineer in formation**
-- 🍎 I'm a student of multiplatform development at the **Apple Developer Academy**.
+- 🍎 I'm a alumna of multiplatform development at the **Apple Developer Academy**.
 - 💻 I work with **Swift**, **JavaScript**, **Python** and **HTML/CSS++**  
 - 🎨 Obsessed with clean design, fluid animations and smooth transitions
 - 🎧 Creator of experiences that connect people 
 - 🌎 I'm from Brazil
 
 ### 🦾 Technologies
-- **Frameworks**: SwiftUI, UIKit, SpriteKit.  
-- **Tools**: Xcode, Git, Figma, Apple Vision Pro & more.
+- **Languages:** Swift, C#, JavaScript, Python, HTML, CSS
+- **Frameworks:** SwiftUI, UIKit, SpriteKit
+- **Game Engine:** Unity 3D
+- **XR Development:** Meta XR SDK, XR Interaction Toolkit
+
+### ⚙️ Tools
+- Git & GitHub  
+- Xcode  
+- Unity Editor  
+- Apple Vision Pro / XR development tools 
 
 ### 📨 Contact-me
 - [![Site](https://img.shields.io/badge/Site-Jade%20Paz-blue?style=flat&logo=LinkedIn&logoColor=white)](https://jadeprog.github.io/site/)
